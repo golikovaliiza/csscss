@@ -1,0 +1,118 @@
+div {
+   background-color: white;
+   border: solid 1px white;
+   border-radius: 10px;
+}
+.dopkin {
+   float: right;
+   width: 35%;
+   margin: 1%;
+   background-color: silver;
+}
+.marginn {
+   margin-left: 50px;
+}
+p {
+   text-indent: 5%;
+}
+.margin {
+   margin-left: 150px;
+}
+.dopkininside {
+   border: none;
+   background-color: silver;
+   text-indent: 5%;
+   padding: 2%;
+}
+.dopkinskinhead {
+   padding-left: 2%;
+   margin:0;
+}
+.obp2 {
+   text-indent: 5%;
+}
+h1 {
+   margin-bottom:0;
+   padding-left: 15%;
+}
+ul {
+   list-style-type: none;
+   padding-left: 5px;
+   padding-right: 10px;
+   margin: 5px;
+}
+.calc {
+   padding-left: 400px;
+}
+.img {
+   float: left;
+   height: 50px;
+   border: solid 5px white;
+}
+.result {
+   width:100px;
+   margin-top: 5px;
+   margin-left: 50px;
+}
+.foot {
+   float: none;
+   padding-left: 45%;
+}
+.testt {
+   margin-left: 50px;
+   margin-bottom: 0.25%;
+   border: solid 2px black;
+}
+.textout {
+   padding-left: 5%;
+   padding-right: 1%;
+}
+.listinside {
+   padding-left: 20px;
+}
+th {
+   width: 40px;
+   height: 40px;
+}
+.mainn {
+   height: 200px;
+}
+body {
+   width: 1000px;
+   text-align: justify;
+   background-color: pink;
+   margin-top: 0;
+   margin-left: 15%;
+   margin-right: 15%;  
+}
+.input {
+   border: outset 1px white;
+   width: 100%;
+   height: 100%;
+}
+.text {
+   padding-left: 50px;
+}
+.main {
+   border-radius: 15px;
+   text-align: left;
+}
+.list {
+   float: left;
+   background-color: silver;
+   border: solid 5px white;
+   border-radius: 15px;
+   padding: 0;
+   width: 130px;
+}
+td {
+   width: 40px;
+   height: 40px;
+}
+.inputcalc {
+   width: 100%;
+   height: 100%;
+}
+.tech{
+   padding-left: 250px;
+} 
